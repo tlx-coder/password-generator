@@ -1,0 +1,14 @@
+button {
+    background-color:#308D46;
+    border-radius: 20px ;
+    font-size: large;
+    margin-top: 20px;
+    padding: 10px;
+    border: none;
+    width: 70%;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}

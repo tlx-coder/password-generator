@@ -1,0 +1,20 @@
+.container {
+    padding: 10px;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.pass-length {
+    margin-top: 20px;
+}
+
+.inputs {
+    display: flex;
+    justify-content: space-between;
+}
+
+.char-length {
+    width: 14%;
+}
